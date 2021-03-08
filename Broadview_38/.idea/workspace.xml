@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3f3e78c-a5ec-4528-9a38-6d69313431e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="f55f6c1c-13a3-44f3-8681-577426ba6a92" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="i27duzgp" />
+  </component>
+  <component name="ProjectId" id="1p0grhjpxJ2inVuBo4pN4NmQDms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../剑指offer/Broadview_35" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3f3e78c-a5ec-4528-9a38-6d69313431e2" name="Default Changelist" comment="" />
+      <created>1614325622818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614325622818</updated>
+      <workItem from="1614325623960" duration="4313000" />
+      <workItem from="1614741275292" duration="4863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="619" y="245" key="FileChooserDialogImpl" timestamp="1614945564326">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="619" y="245" key="FileChooserDialogImpl/-1920.-27.1536.832/0.0.1680.1010@0.0.1680.1010" timestamp="1614945564326" />
+    <state x="214" y="114" key="new project wizard" timestamp="1614861274917">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="214" y="114" key="new project wizard/-1920.-27.1536.832/0.0.1680.1010@0.0.1680.1010" timestamp="1614861274917" />
+  </component>
+</project>
