@@ -21,7 +21,15 @@ class Solution {
         }
         return true;
     }
-    // 深度优先遍历图 
+
+    /**
+     *
+     * @param adjacency :邻接矩阵
+     * @param vertex: 顶点
+     * @param visited: 是否被访问过 0:没有被访问过/
+     *                            1:被
+     * @return :
+     */
     public boolean dfs(List<List<Integer>> adjacency , int vertex, int[] visited){
         // 已访问过
         if(visited[vertex] == 1)  return false;
